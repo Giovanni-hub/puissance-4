@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+}
+
+#puissance4{
+    padding: 20px;
+    display: inline-block;
+    background-color: blue;
+}
+
+.col { 
+    display: inline-block;
+    width : 80px;
+    height: 80px;
+    background-color: white;
+    border-radius: 50%;
+    margin: 6px;
+}
+
+.next-red, .col.red {
+    background-color:red;
+}
+
+.next-yellow, .col.yellow {
+    background-color: yellow;
+}
+
+p {
+    text-align: center;
+    border: solid 2px black;
+}
+
+
+
